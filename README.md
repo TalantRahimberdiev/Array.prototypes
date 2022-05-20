@@ -1,2 +1,2 @@
 # Array.prototypes
-#JS React
+js functions
